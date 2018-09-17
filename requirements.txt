@@ -1,1 +1,4 @@
 django
+pandas
+numpy
+folium

@@ -2,7 +2,6 @@ from django.shortcuts import render
 import pandas as pd
 import folium
 import numpy as np
-import json
 import os
 
 
