@@ -37,7 +37,7 @@ SECRET_KEY = os.environ.get('SECRET_KEY', 'bfd506am3t9(ousne#0&!z4q%7!9tj(3n_@w&
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['africa-cup.herokuapp.com']
 
 
 # Application definition
