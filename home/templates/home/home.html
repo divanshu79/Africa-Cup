@@ -1,0 +1,144 @@
+<script>
+    /* JS for demo only */
+var colors = ['1abc9c', '2c3e50', '2980b9', '7f8c8d', 'f1c40f', 'd35400', '27ae60'];
+
+colors.each(function (color) {
+  $$('.color-picker')[0].insert(
+    '<div class="square" style="background: #' + color + '"></div>'
+  );
+});
+
+$$('.color-picker')[0].on('click', '.square', function(event, square) {
+  background = square.getStyle('background');
+  $$('.custom-dropdown select').each(function (dropdown) {
+    dropdown.setStyle({'background' : background});
+  });
+});
+
+/*
+ * Original version at
+ * http://red-team-design.com/making-html-dropdowns-not-suck
+ */
+</script>
+
+<style>
+    /* CodePen demo */
+body {
+  background: #2f2f2f;
+  color: #fff;
+  text-align: center;
+  font-family: Arial, Helvetica;
+}
+
+.big {
+  font-size: 1.2em;
+}
+
+.small {
+  font-size: .7em;
+}
+
+.square {
+  width: .7em;
+  height: .7em;
+  margin: .5em;
+  display: inline-block;
+}
+
+/* Custom dropdown */
+.custom-dropdown {
+  position: relative;
+  display: inline-block;
+  vertical-align: middle;
+  margin: 10px; /* demo only */
+}
+
+.custom-dropdown select {
+  background-color: #1abc9c;
+  color: #fff;
+  font-size: inherit;
+  padding: .5em;
+  padding-right: 2.5em;
+  border: 0;
+  margin: 0;
+  border-radius: 3px;
+  text-indent: 0.01px;
+  text-overflow: '';
+  -webkit-appearance: button; /* hide default arrow in chrome OSX */
+}
+
+.custom-dropdown::before,
+.custom-dropdown::after {
+  content: "";
+  position: absolute;
+  pointer-events: none;
+}
+
+.custom-dropdown::after { /*  Custom dropdown arrow */
+  content: "\25BC";
+  height: 1em;
+  font-size: .625em;
+  line-height: 1;
+  right: 1.2em;
+  top: 50%;
+  margin-top: -.5em;
+}
+
+.custom-dropdown::before { /*  Custom dropdown arrow cover */
+  width: 2em;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  border-radius: 0 3px 3px 0;
+}
+
+.custom-dropdown select[disabled] {
+  color: rgba(0,0,0,.3);
+}
+
+.custom-dropdown select[disabled]::after {
+  color: rgba(0,0,0,.1);
+}
+
+.custom-dropdown::before {
+  background-color: rgba(0,0,0,.15);
+}
+
+.custom-dropdown::after {
+  color: rgba(0,0,0,.4);
+}
+</style>
+
+
+<h2>Africa Nation cup</h2>
+
+<form action="{% url 'check' %}" method="get" target="_blank">
+    {% csrf_token %}
+    <span class="custom-dropdown">
+        <select name="type">
+            <option>winner</option>
+            <option>team</option>
+            <option>host</option>
+        </select>
+    </span>
+    <span class="custom-dropdown">
+        <select name="Form_year">
+            {% for i in year1 %}
+            <option>
+                {{ i }}
+            </option>
+            {% endfor %}
+        </select>
+    </span>
+
+    <span class="custom-dropdown">
+        <select name="To_year">
+            {% for i in year %}
+            <option>{{ i }}</option>
+            {% endfor %}
+        </select>
+    </span>
+    <div class="right-w3l">
+        <input type="submit" value="Submit">
+    </div>
+</form>

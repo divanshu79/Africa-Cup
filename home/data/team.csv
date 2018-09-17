@@ -1,0 +1,336 @@
+host,id,info,match,nation_flag,team,team_flag,year
+Guinea,1,/teams/guinea-team/1/,/teams/guinea-team/2023/3/,https://s.hs-data.com/bilder/flaggen_neu/83.gif,Guinea,https://s.hs-data.com/bilder/wappen/mini/83.gif,2023
+Elfenbeinküste,2,/teams/elfenbeinkueste-team/1/,/teams/elfenbeinkueste-team/2021/3/,https://s.hs-data.com/bilder/flaggen_neu/78.gif,Ivory Coast,https://s.hs-data.com/bilder/wappen/mini/78.gif,2021
+Kamerun,3,/teams/kamerun-team/1/,/teams/kamerun-team/2019/3/,https://s.hs-data.com/bilder/flaggen_neu/85.gif,Cameroon,https://s.hs-data.com/bilder/wappen/mini/85.gif,2019
+Gabun,4,/teams/algerien-team/1/,/teams/algerien-team/2017/3/,https://s.hs-data.com/bilder/flaggen_neu/69.gif,Algeria,https://s.hs-data.com/bilder/wappen/mini/69.gif,2017
+Gabun,5,/teams/burkina-faso-team/1/,/teams/burkina-faso-team/2017/3/,https://s.hs-data.com/bilder/flaggen_neu/75.gif,Burkina Faso,https://s.hs-data.com/bilder/wappen/mini/75.gif,2017
+Gabun,6,/teams/kamerun-team/1/,/teams/kamerun-team/2017/3/,https://s.hs-data.com/bilder/flaggen_neu/85.gif,Cameroon,https://s.hs-data.com/bilder/wappen/mini/85.gif,2017
+Gabun,7,/teams/dr-kongo-team/1/,/teams/dr-kongo-team/2017/3/,https://s.hs-data.com/bilder/flaggen_neu/77.gif,Congo DR,https://s.hs-data.com/bilder/wappen/mini/77.gif,2017
+Gabun,8,/teams/aegypten-team/1/,/teams/aegypten-team/2017/3/,https://s.hs-data.com/bilder/flaggen_neu/68.gif,Egypt,https://s.hs-data.com/bilder/wappen/mini/68.gif,2017
+Gabun,9,/teams/gabun-team/1/,/teams/gabun-team/2017/3/,https://s.hs-data.com/bilder/flaggen_neu/80.gif,Gabon,https://s.hs-data.com/bilder/wappen/mini/80.gif,2017
+Gabun,10,/teams/ghana-team/1/,/teams/ghana-team/2017/3/,https://s.hs-data.com/bilder/flaggen_neu/82.gif,Ghana,https://s.hs-data.com/bilder/wappen/mini/82.gif,2017
+Gabun,11,/teams/guinea-bissau-team/1/,/teams/guinea-bissau-team/2017/3/,https://s.hs-data.com/bilder/flaggen_neu/84.gif,Guinea-Bissau,https://s.hs-data.com/bilder/wappen/mini/84.gif,2017
+Gabun,12,/teams/elfenbeinkueste-team/1/,/teams/elfenbeinkueste-team/2017/3/,https://s.hs-data.com/bilder/flaggen_neu/78.gif,Ivory Coast,https://s.hs-data.com/bilder/wappen/mini/78.gif,2017
+Gabun,13,/teams/mali-team/1/,/teams/mali-team/2017/3/,https://s.hs-data.com/bilder/flaggen_neu/94.gif,Mali,https://s.hs-data.com/bilder/wappen/mini/94.gif,2017
+Gabun,14,/teams/marokko-team/1/,/teams/marokko-team/2017/3/,https://s.hs-data.com/bilder/flaggen_neu/95.gif,Morocco,https://s.hs-data.com/bilder/wappen/mini/95.gif,2017
+Gabun,15,/teams/senegal-team/1/,/teams/senegal-team/2017/3/,https://s.hs-data.com/bilder/flaggen_neu/104.gif,Senegal,https://s.hs-data.com/bilder/wappen/mini/104.gif,2017
+Gabun,16,/teams/togo-team/1/,/teams/togo-team/2017/3/,https://s.hs-data.com/bilder/flaggen_neu/113.gif,Togo,https://s.hs-data.com/bilder/wappen/mini/113.gif,2017
+Gabun,17,/teams/tunesien-team/1/,/teams/tunesien-team/2017/3/,https://s.hs-data.com/bilder/flaggen_neu/115.gif,Tunisia,https://s.hs-data.com/bilder/wappen/mini/115.gif,2017
+Gabun,18,/teams/uganda-team/1/,/teams/uganda-team/2017/3/,https://s.hs-data.com/bilder/flaggen_neu/116.gif,Uganda,https://s.hs-data.com/bilder/wappen/mini/116.gif,2017
+Gabun,19,/teams/simbabwe-team/1/,/teams/simbabwe-team/2017/3/,https://s.hs-data.com/bilder/flaggen_neu/107.gif,Zimbabwe,https://s.hs-data.com/bilder/wappen/mini/107.gif,2017
+Equatorial Guinea,20,/teams/algerien-team/1/,/teams/algerien-team/2015/3/,https://s.hs-data.com/bilder/flaggen_neu/69.gif,Algeria,https://s.hs-data.com/bilder/wappen/mini/69.gif,2015
+Equatorial Guinea,21,/teams/burkina-faso-team/1/,/teams/burkina-faso-team/2015/3/,https://s.hs-data.com/bilder/flaggen_neu/75.gif,Burkina Faso,https://s.hs-data.com/bilder/wappen/mini/75.gif,2015
+Equatorial Guinea,22,/teams/kamerun-team/1/,/teams/kamerun-team/2015/3/,https://s.hs-data.com/bilder/flaggen_neu/85.gif,Cameroon,https://s.hs-data.com/bilder/wappen/mini/85.gif,2015
+Equatorial Guinea,23,/teams/kapverdische-inseln-team/1/,/teams/kapverdische-inseln-team/2015/3/,https://s.hs-data.com/bilder/flaggen_neu/86.gif,Cape Verde,https://s.hs-data.com/bilder/wappen/mini/86.gif,2015
+Equatorial Guinea,24,/teams/kongo-team/1/,/teams/kongo-team/2015/3/,https://s.hs-data.com/bilder/flaggen_neu/88.gif,Congo,https://s.hs-data.com/bilder/wappen/mini/88.gif,2015
+Equatorial Guinea,25,/teams/dr-kongo-team/1/,/teams/dr-kongo-team/2015/3/,https://s.hs-data.com/bilder/flaggen_neu/77.gif,Congo DR,https://s.hs-data.com/bilder/wappen/mini/77.gif,2015
+Equatorial Guinea,26,/teams/aequatorialguinea-team/1/,/teams/aequatorialguinea-team/2015/3/,https://s.hs-data.com/bilder/flaggen_neu/71.gif,Equatorial Guinea,https://s.hs-data.com/bilder/wappen/mini/71.gif,2015
+Equatorial Guinea,27,/teams/gabun-team/1/,/teams/gabun-team/2015/3/,https://s.hs-data.com/bilder/flaggen_neu/80.gif,Gabon,https://s.hs-data.com/bilder/wappen/mini/80.gif,2015
+Equatorial Guinea,28,/teams/ghana-team/1/,/teams/ghana-team/2015/3/,https://s.hs-data.com/bilder/flaggen_neu/82.gif,Ghana,https://s.hs-data.com/bilder/wappen/mini/82.gif,2015
+Equatorial Guinea,29,/teams/guinea-team/1/,/teams/guinea-team/2015/3/,https://s.hs-data.com/bilder/flaggen_neu/83.gif,Guinea,https://s.hs-data.com/bilder/wappen/mini/83.gif,2015
+Equatorial Guinea,30,/teams/elfenbeinkueste-team/1/,/teams/elfenbeinkueste-team/2015/3/,https://s.hs-data.com/bilder/flaggen_neu/78.gif,Ivory Coast,https://s.hs-data.com/bilder/wappen/mini/78.gif,2015
+Equatorial Guinea,31,/teams/mali-team/1/,/teams/mali-team/2015/3/,https://s.hs-data.com/bilder/flaggen_neu/94.gif,Mali,https://s.hs-data.com/bilder/wappen/mini/94.gif,2015
+Equatorial Guinea,32,/teams/senegal-team/1/,/teams/senegal-team/2015/3/,https://s.hs-data.com/bilder/flaggen_neu/104.gif,Senegal,https://s.hs-data.com/bilder/wappen/mini/104.gif,2015
+Equatorial Guinea,33,/teams/suedafrika-team/1/,/teams/suedafrika-team/2015/3/,https://s.hs-data.com/bilder/flaggen_neu/109.gif,South Africa,https://s.hs-data.com/bilder/wappen/mini/109.gif,2015
+Equatorial Guinea,34,/teams/tunesien-team/1/,/teams/tunesien-team/2015/3/,https://s.hs-data.com/bilder/flaggen_neu/115.gif,Tunisia,https://s.hs-data.com/bilder/wappen/mini/115.gif,2015
+Equatorial Guinea,35,/teams/sambia-team/1/,/teams/sambia-team/2015/3/,https://s.hs-data.com/bilder/flaggen_neu/102.gif,Zambia,https://s.hs-data.com/bilder/wappen/mini/102.gif,2015
+Südafrika,36,/teams/algerien-team/1/,/teams/algerien-team/2013/3/,https://s.hs-data.com/bilder/flaggen_neu/69.gif,Algeria,https://s.hs-data.com/bilder/wappen/mini/69.gif,2013
+Südafrika,37,/teams/angola-team/1/,/teams/angola-team/2013/3/,https://s.hs-data.com/bilder/flaggen_neu/70.gif,Angola,https://s.hs-data.com/bilder/wappen/mini/70.gif,2013
+Südafrika,38,/teams/burkina-faso-team/1/,/teams/burkina-faso-team/2013/3/,https://s.hs-data.com/bilder/flaggen_neu/75.gif,Burkina Faso,https://s.hs-data.com/bilder/wappen/mini/75.gif,2013
+Südafrika,39,/teams/kapverdische-inseln-team/1/,/teams/kapverdische-inseln-team/2013/3/,https://s.hs-data.com/bilder/flaggen_neu/86.gif,Cape Verde,https://s.hs-data.com/bilder/wappen/mini/86.gif,2013
+Südafrika,40,/teams/dr-kongo-team/1/,/teams/dr-kongo-team/2013/3/,https://s.hs-data.com/bilder/flaggen_neu/77.gif,Congo DR,https://s.hs-data.com/bilder/wappen/mini/77.gif,2013
+Südafrika,41,/teams/aethiopien-team/1/,/teams/aethiopien-team/2013/3/,https://s.hs-data.com/bilder/flaggen_neu/72.gif,Ethiopia,https://s.hs-data.com/bilder/wappen/mini/72.gif,2013
+Südafrika,42,/teams/ghana-team/1/,/teams/ghana-team/2013/3/,https://s.hs-data.com/bilder/flaggen_neu/82.gif,Ghana,https://s.hs-data.com/bilder/wappen/mini/82.gif,2013
+Südafrika,43,/teams/elfenbeinkueste-team/1/,/teams/elfenbeinkueste-team/2013/3/,https://s.hs-data.com/bilder/flaggen_neu/78.gif,Ivory Coast,https://s.hs-data.com/bilder/wappen/mini/78.gif,2013
+Südafrika,44,/teams/mali-team/1/,/teams/mali-team/2013/3/,https://s.hs-data.com/bilder/flaggen_neu/94.gif,Mali,https://s.hs-data.com/bilder/wappen/mini/94.gif,2013
+Südafrika,45,/teams/marokko-team/1/,/teams/marokko-team/2013/3/,https://s.hs-data.com/bilder/flaggen_neu/95.gif,Morocco,https://s.hs-data.com/bilder/wappen/mini/95.gif,2013
+Südafrika,46,/teams/niger-team/1/,/teams/niger-team/2013/3/,https://s.hs-data.com/bilder/flaggen_neu/210.gif,Niger,https://s.hs-data.com/bilder/wappen/mini/3216.gif,2013
+Südafrika,47,/teams/nigeria-team/1/,/teams/nigeria-team/2013/3/,https://s.hs-data.com/bilder/flaggen_neu/100.gif,Nigeria,https://s.hs-data.com/bilder/wappen/mini/100.gif,2013
+Südafrika,48,/teams/suedafrika-team/1/,/teams/suedafrika-team/2013/3/,https://s.hs-data.com/bilder/flaggen_neu/109.gif,South Africa,https://s.hs-data.com/bilder/wappen/mini/109.gif,2013
+Südafrika,49,/teams/togo-team/1/,/teams/togo-team/2013/3/,https://s.hs-data.com/bilder/flaggen_neu/113.gif,Togo,https://s.hs-data.com/bilder/wappen/mini/113.gif,2013
+Südafrika,50,/teams/tunesien-team/1/,/teams/tunesien-team/2013/3/,https://s.hs-data.com/bilder/flaggen_neu/115.gif,Tunisia,https://s.hs-data.com/bilder/wappen/mini/115.gif,2013
+Südafrika,51,/teams/sambia-team/1/,/teams/sambia-team/2013/3/,https://s.hs-data.com/bilder/flaggen_neu/102.gif,Zambia,https://s.hs-data.com/bilder/wappen/mini/102.gif,2013
+Gabun und Äquatorialg.,52,/teams/angola-team/1/,/teams/angola-team/2012/3/,https://s.hs-data.com/bilder/flaggen_neu/70.gif,Angola,https://s.hs-data.com/bilder/wappen/mini/70.gif,2012
+Gabun und Äquatorialg.,53,/teams/botswana-team/1/,/teams/botswana-team/2012/3/,https://s.hs-data.com/bilder/flaggen_neu/74.gif,Botswana,https://s.hs-data.com/bilder/wappen/mini/74.gif,2012
+Gabun und Äquatorialg.,54,/teams/burkina-faso-team/1/,/teams/burkina-faso-team/2012/3/,https://s.hs-data.com/bilder/flaggen_neu/75.gif,Burkina Faso,https://s.hs-data.com/bilder/wappen/mini/75.gif,2012
+Gabun und Äquatorialg.,55,/teams/aequatorialguinea-team/1/,/teams/aequatorialguinea-team/2012/3/,https://s.hs-data.com/bilder/flaggen_neu/71.gif,Equatorial Guinea,https://s.hs-data.com/bilder/wappen/mini/71.gif,2012
+Gabun und Äquatorialg.,56,/teams/gabun-team/1/,/teams/gabun-team/2012/3/,https://s.hs-data.com/bilder/flaggen_neu/80.gif,Gabon,https://s.hs-data.com/bilder/wappen/mini/80.gif,2012
+Gabun und Äquatorialg.,57,/teams/ghana-team/1/,/teams/ghana-team/2012/3/,https://s.hs-data.com/bilder/flaggen_neu/82.gif,Ghana,https://s.hs-data.com/bilder/wappen/mini/82.gif,2012
+Gabun und Äquatorialg.,58,/teams/guinea-team/1/,/teams/guinea-team/2012/3/,https://s.hs-data.com/bilder/flaggen_neu/83.gif,Guinea,https://s.hs-data.com/bilder/wappen/mini/83.gif,2012
+Gabun und Äquatorialg.,59,/teams/elfenbeinkueste-team/1/,/teams/elfenbeinkueste-team/2012/3/,https://s.hs-data.com/bilder/flaggen_neu/78.gif,Ivory Coast,https://s.hs-data.com/bilder/wappen/mini/78.gif,2012
+Gabun und Äquatorialg.,60,/teams/libyen-team/1/,/teams/libyen-team/2012/3/,https://s.hs-data.com/bilder/flaggen_neu/91.gif,Libya,https://s.hs-data.com/bilder/wappen/mini/91.gif,2012
+Gabun und Äquatorialg.,61,/teams/mali-team/1/,/teams/mali-team/2012/3/,https://s.hs-data.com/bilder/flaggen_neu/94.gif,Mali,https://s.hs-data.com/bilder/wappen/mini/94.gif,2012
+Gabun und Äquatorialg.,62,/teams/marokko-team/1/,/teams/marokko-team/2012/3/,https://s.hs-data.com/bilder/flaggen_neu/95.gif,Morocco,https://s.hs-data.com/bilder/wappen/mini/95.gif,2012
+Gabun und Äquatorialg.,63,/teams/niger-team/1/,/teams/niger-team/2012/3/,https://s.hs-data.com/bilder/flaggen_neu/210.gif,Niger,https://s.hs-data.com/bilder/wappen/mini/3216.gif,2012
+Gabun und Äquatorialg.,64,/teams/senegal-team/1/,/teams/senegal-team/2012/3/,https://s.hs-data.com/bilder/flaggen_neu/104.gif,Senegal,https://s.hs-data.com/bilder/wappen/mini/104.gif,2012
+Gabun und Äquatorialg.,65,/teams/sudan-team/1/,/teams/sudan-team/2012/3/,https://s.hs-data.com/bilder/flaggen_neu/110.gif,Sudan,https://s.hs-data.com/bilder/wappen/mini/110.gif,2012
+Gabun und Äquatorialg.,66,/teams/tunesien-team/1/,/teams/tunesien-team/2012/3/,https://s.hs-data.com/bilder/flaggen_neu/115.gif,Tunisia,https://s.hs-data.com/bilder/wappen/mini/115.gif,2012
+Gabun und Äquatorialg.,67,/teams/sambia-team/1/,/teams/sambia-team/2012/3/,https://s.hs-data.com/bilder/flaggen_neu/102.gif,Zambia,https://s.hs-data.com/bilder/wappen/mini/102.gif,2012
+Angola,68,/teams/algerien-team/1/,/teams/algerien-team/2010/3/,https://s.hs-data.com/bilder/flaggen_neu/69.gif,Algeria,https://s.hs-data.com/bilder/wappen/mini/69.gif,2010
+Angola,69,/teams/angola-team/1/,/teams/angola-team/2010/3/,https://s.hs-data.com/bilder/flaggen_neu/70.gif,Angola,https://s.hs-data.com/bilder/wappen/mini/70.gif,2010
+Angola,70,/teams/benin-team/1/,/teams/benin-team/2010/3/,https://s.hs-data.com/bilder/flaggen_neu/73.gif,Benin,https://s.hs-data.com/bilder/wappen/mini/73.gif,2010
+Angola,71,/teams/burkina-faso-team/1/,/teams/burkina-faso-team/2010/3/,https://s.hs-data.com/bilder/flaggen_neu/75.gif,Burkina Faso,https://s.hs-data.com/bilder/wappen/mini/75.gif,2010
+Angola,72,/teams/kamerun-team/1/,/teams/kamerun-team/2010/3/,https://s.hs-data.com/bilder/flaggen_neu/85.gif,Cameroon,https://s.hs-data.com/bilder/wappen/mini/85.gif,2010
+Angola,73,/teams/aegypten-team/1/,/teams/aegypten-team/2010/3/,https://s.hs-data.com/bilder/flaggen_neu/68.gif,Egypt,https://s.hs-data.com/bilder/wappen/mini/68.gif,2010
+Angola,74,/teams/gabun-team/1/,/teams/gabun-team/2010/3/,https://s.hs-data.com/bilder/flaggen_neu/80.gif,Gabon,https://s.hs-data.com/bilder/wappen/mini/80.gif,2010
+Angola,75,/teams/ghana-team/1/,/teams/ghana-team/2010/3/,https://s.hs-data.com/bilder/flaggen_neu/82.gif,Ghana,https://s.hs-data.com/bilder/wappen/mini/82.gif,2010
+Angola,76,/teams/elfenbeinkueste-team/1/,/teams/elfenbeinkueste-team/2010/3/,https://s.hs-data.com/bilder/flaggen_neu/78.gif,Ivory Coast,https://s.hs-data.com/bilder/wappen/mini/78.gif,2010
+Angola,77,/teams/malawi-team/1/,/teams/malawi-team/2010/3/,https://s.hs-data.com/bilder/flaggen_neu/93.gif,Malawi,https://s.hs-data.com/bilder/wappen/mini/93.gif,2010
+Angola,78,/teams/mali-team/1/,/teams/mali-team/2010/3/,https://s.hs-data.com/bilder/flaggen_neu/94.gif,Mali,https://s.hs-data.com/bilder/wappen/mini/94.gif,2010
+Angola,79,/teams/mosambik-team/1/,/teams/mosambik-team/2010/3/,https://s.hs-data.com/bilder/flaggen_neu/98.gif,Mozambique,https://s.hs-data.com/bilder/wappen/mini/98.gif,2010
+Angola,80,/teams/nigeria-team/1/,/teams/nigeria-team/2010/3/,https://s.hs-data.com/bilder/flaggen_neu/100.gif,Nigeria,https://s.hs-data.com/bilder/wappen/mini/100.gif,2010
+Angola,81,/teams/tunesien-team/1/,/teams/tunesien-team/2010/3/,https://s.hs-data.com/bilder/flaggen_neu/115.gif,Tunisia,https://s.hs-data.com/bilder/wappen/mini/115.gif,2010
+Angola,82,/teams/sambia-team/1/,/teams/sambia-team/2010/3/,https://s.hs-data.com/bilder/flaggen_neu/102.gif,Zambia,https://s.hs-data.com/bilder/wappen/mini/102.gif,2010
+Ghana,83,/teams/angola-team/1/,/teams/angola-team/2008/3/,https://s.hs-data.com/bilder/flaggen_neu/70.gif,Angola,https://s.hs-data.com/bilder/wappen/mini/70.gif,2008
+Ghana,84,/teams/benin-team/1/,/teams/benin-team/2008/3/,https://s.hs-data.com/bilder/flaggen_neu/73.gif,Benin,https://s.hs-data.com/bilder/wappen/mini/73.gif,2008
+Ghana,85,/teams/kamerun-team/1/,/teams/kamerun-team/2008/3/,https://s.hs-data.com/bilder/flaggen_neu/85.gif,Cameroon,https://s.hs-data.com/bilder/wappen/mini/85.gif,2008
+Ghana,86,/teams/aegypten-team/1/,/teams/aegypten-team/2008/3/,https://s.hs-data.com/bilder/flaggen_neu/68.gif,Egypt,https://s.hs-data.com/bilder/wappen/mini/68.gif,2008
+Ghana,87,/teams/ghana-team/1/,/teams/ghana-team/2008/3/,https://s.hs-data.com/bilder/flaggen_neu/82.gif,Ghana,https://s.hs-data.com/bilder/wappen/mini/82.gif,2008
+Ghana,88,/teams/guinea-team/1/,/teams/guinea-team/2008/3/,https://s.hs-data.com/bilder/flaggen_neu/83.gif,Guinea,https://s.hs-data.com/bilder/wappen/mini/83.gif,2008
+Ghana,89,/teams/elfenbeinkueste-team/1/,/teams/elfenbeinkueste-team/2008/3/,https://s.hs-data.com/bilder/flaggen_neu/78.gif,Ivory Coast,https://s.hs-data.com/bilder/wappen/mini/78.gif,2008
+Ghana,90,/teams/mali-team/1/,/teams/mali-team/2008/3/,https://s.hs-data.com/bilder/flaggen_neu/94.gif,Mali,https://s.hs-data.com/bilder/wappen/mini/94.gif,2008
+Ghana,91,/teams/marokko-team/1/,/teams/marokko-team/2008/3/,https://s.hs-data.com/bilder/flaggen_neu/95.gif,Morocco,https://s.hs-data.com/bilder/wappen/mini/95.gif,2008
+Ghana,92,/teams/namibia-team/1/,/teams/namibia-team/2008/3/,https://s.hs-data.com/bilder/flaggen_neu/99.gif,Namibia,https://s.hs-data.com/bilder/wappen/mini/99.gif,2008
+Ghana,93,/teams/nigeria-team/1/,/teams/nigeria-team/2008/3/,https://s.hs-data.com/bilder/flaggen_neu/100.gif,Nigeria,https://s.hs-data.com/bilder/wappen/mini/100.gif,2008
+Ghana,94,/teams/senegal-team/1/,/teams/senegal-team/2008/3/,https://s.hs-data.com/bilder/flaggen_neu/104.gif,Senegal,https://s.hs-data.com/bilder/wappen/mini/104.gif,2008
+Ghana,95,/teams/suedafrika-team/1/,/teams/suedafrika-team/2008/3/,https://s.hs-data.com/bilder/flaggen_neu/109.gif,South Africa,https://s.hs-data.com/bilder/wappen/mini/109.gif,2008
+Ghana,96,/teams/sudan-team/1/,/teams/sudan-team/2008/3/,https://s.hs-data.com/bilder/flaggen_neu/110.gif,Sudan,https://s.hs-data.com/bilder/wappen/mini/110.gif,2008
+Ghana,97,/teams/tunesien-team/1/,/teams/tunesien-team/2008/3/,https://s.hs-data.com/bilder/flaggen_neu/115.gif,Tunisia,https://s.hs-data.com/bilder/wappen/mini/115.gif,2008
+Ghana,98,/teams/sambia-team/1/,/teams/sambia-team/2008/3/,https://s.hs-data.com/bilder/flaggen_neu/102.gif,Zambia,https://s.hs-data.com/bilder/wappen/mini/102.gif,2008
+Egypt,99,/teams/angola-team/1/,/teams/angola-team/2006/3/,https://s.hs-data.com/bilder/flaggen_neu/70.gif,Angola,https://s.hs-data.com/bilder/wappen/mini/70.gif,2006
+Egypt,100,/teams/kamerun-team/1/,/teams/kamerun-team/2006/3/,https://s.hs-data.com/bilder/flaggen_neu/85.gif,Cameroon,https://s.hs-data.com/bilder/wappen/mini/85.gif,2006
+Egypt,101,/teams/dr-kongo-team/1/,/teams/dr-kongo-team/2006/3/,https://s.hs-data.com/bilder/flaggen_neu/77.gif,Congo DR,https://s.hs-data.com/bilder/wappen/mini/77.gif,2006
+Egypt,102,/teams/aegypten-team/1/,/teams/aegypten-team/2006/3/,https://s.hs-data.com/bilder/flaggen_neu/68.gif,Egypt,https://s.hs-data.com/bilder/wappen/mini/68.gif,2006
+Egypt,103,/teams/ghana-team/1/,/teams/ghana-team/2006/3/,https://s.hs-data.com/bilder/flaggen_neu/82.gif,Ghana,https://s.hs-data.com/bilder/wappen/mini/82.gif,2006
+Egypt,104,/teams/guinea-team/1/,/teams/guinea-team/2006/3/,https://s.hs-data.com/bilder/flaggen_neu/83.gif,Guinea,https://s.hs-data.com/bilder/wappen/mini/83.gif,2006
+Egypt,105,/teams/elfenbeinkueste-team/1/,/teams/elfenbeinkueste-team/2006/3/,https://s.hs-data.com/bilder/flaggen_neu/78.gif,Ivory Coast,https://s.hs-data.com/bilder/wappen/mini/78.gif,2006
+Egypt,106,/teams/libyen-team/1/,/teams/libyen-team/2006/3/,https://s.hs-data.com/bilder/flaggen_neu/91.gif,Libya,https://s.hs-data.com/bilder/wappen/mini/91.gif,2006
+Egypt,107,/teams/marokko-team/1/,/teams/marokko-team/2006/3/,https://s.hs-data.com/bilder/flaggen_neu/95.gif,Morocco,https://s.hs-data.com/bilder/wappen/mini/95.gif,2006
+Egypt,108,/teams/nigeria-team/1/,/teams/nigeria-team/2006/3/,https://s.hs-data.com/bilder/flaggen_neu/100.gif,Nigeria,https://s.hs-data.com/bilder/wappen/mini/100.gif,2006
+Egypt,109,/teams/senegal-team/1/,/teams/senegal-team/2006/3/,https://s.hs-data.com/bilder/flaggen_neu/104.gif,Senegal,https://s.hs-data.com/bilder/wappen/mini/104.gif,2006
+Egypt,110,/teams/suedafrika-team/1/,/teams/suedafrika-team/2006/3/,https://s.hs-data.com/bilder/flaggen_neu/109.gif,South Africa,https://s.hs-data.com/bilder/wappen/mini/109.gif,2006
+Egypt,111,/teams/togo-team/1/,/teams/togo-team/2006/3/,https://s.hs-data.com/bilder/flaggen_neu/113.gif,Togo,https://s.hs-data.com/bilder/wappen/mini/113.gif,2006
+Egypt,112,/teams/tunesien-team/1/,/teams/tunesien-team/2006/3/,https://s.hs-data.com/bilder/flaggen_neu/115.gif,Tunisia,https://s.hs-data.com/bilder/wappen/mini/115.gif,2006
+Egypt,113,/teams/sambia-team/1/,/teams/sambia-team/2006/3/,https://s.hs-data.com/bilder/flaggen_neu/102.gif,Zambia,https://s.hs-data.com/bilder/wappen/mini/102.gif,2006
+Egypt,114,/teams/simbabwe-team/1/,/teams/simbabwe-team/2006/3/,https://s.hs-data.com/bilder/flaggen_neu/107.gif,Zimbabwe,https://s.hs-data.com/bilder/wappen/mini/107.gif,2006
+Tunisia,115,/teams/algerien-team/1/,/teams/algerien-team/2004/3/,https://s.hs-data.com/bilder/flaggen_neu/69.gif,Algeria,https://s.hs-data.com/bilder/wappen/mini/69.gif,2004
+Tunisia,116,/teams/benin-team/1/,/teams/benin-team/2004/3/,https://s.hs-data.com/bilder/flaggen_neu/73.gif,Benin,https://s.hs-data.com/bilder/wappen/mini/73.gif,2004
+Tunisia,117,/teams/burkina-faso-team/1/,/teams/burkina-faso-team/2004/3/,https://s.hs-data.com/bilder/flaggen_neu/75.gif,Burkina Faso,https://s.hs-data.com/bilder/wappen/mini/75.gif,2004
+Tunisia,118,/teams/kamerun-team/1/,/teams/kamerun-team/2004/3/,https://s.hs-data.com/bilder/flaggen_neu/85.gif,Cameroon,https://s.hs-data.com/bilder/wappen/mini/85.gif,2004
+Tunisia,119,/teams/dr-kongo-team/1/,/teams/dr-kongo-team/2004/3/,https://s.hs-data.com/bilder/flaggen_neu/77.gif,Congo DR,https://s.hs-data.com/bilder/wappen/mini/77.gif,2004
+Tunisia,120,/teams/aegypten-team/1/,/teams/aegypten-team/2004/3/,https://s.hs-data.com/bilder/flaggen_neu/68.gif,Egypt,https://s.hs-data.com/bilder/wappen/mini/68.gif,2004
+Tunisia,121,/teams/guinea-team/1/,/teams/guinea-team/2004/3/,https://s.hs-data.com/bilder/flaggen_neu/83.gif,Guinea,https://s.hs-data.com/bilder/wappen/mini/83.gif,2004
+Tunisia,122,/teams/kenia-team/1/,/teams/kenia-team/2004/3/,https://s.hs-data.com/bilder/flaggen_neu/87.gif,Kenya,https://s.hs-data.com/bilder/wappen/mini/87.gif,2004
+Tunisia,123,/teams/mali-team/1/,/teams/mali-team/2004/3/,https://s.hs-data.com/bilder/flaggen_neu/94.gif,Mali,https://s.hs-data.com/bilder/wappen/mini/94.gif,2004
+Tunisia,124,/teams/marokko-team/1/,/teams/marokko-team/2004/3/,https://s.hs-data.com/bilder/flaggen_neu/95.gif,Morocco,https://s.hs-data.com/bilder/wappen/mini/95.gif,2004
+Tunisia,125,/teams/nigeria-team/1/,/teams/nigeria-team/2004/3/,https://s.hs-data.com/bilder/flaggen_neu/100.gif,Nigeria,https://s.hs-data.com/bilder/wappen/mini/100.gif,2004
+Tunisia,126,/teams/ruanda-team/1/,/teams/ruanda-team/2004/3/,https://s.hs-data.com/bilder/flaggen_neu/101.gif,Rwanda,https://s.hs-data.com/bilder/wappen/mini/101.gif,2004
+Tunisia,127,/teams/senegal-team/1/,/teams/senegal-team/2004/3/,https://s.hs-data.com/bilder/flaggen_neu/104.gif,Senegal,https://s.hs-data.com/bilder/wappen/mini/104.gif,2004
+Tunisia,128,/teams/suedafrika-team/1/,/teams/suedafrika-team/2004/3/,https://s.hs-data.com/bilder/flaggen_neu/109.gif,South Africa,https://s.hs-data.com/bilder/wappen/mini/109.gif,2004
+Tunisia,129,/teams/tunesien-team/1/,/teams/tunesien-team/2004/3/,https://s.hs-data.com/bilder/flaggen_neu/115.gif,Tunisia,https://s.hs-data.com/bilder/wappen/mini/115.gif,2004
+Tunisia,130,/teams/simbabwe-team/1/,/teams/simbabwe-team/2004/3/,https://s.hs-data.com/bilder/flaggen_neu/107.gif,Zimbabwe,https://s.hs-data.com/bilder/wappen/mini/107.gif,2004
+Mali,131,/teams/algerien-team/1/,/teams/algerien-team/2002/3/,https://s.hs-data.com/bilder/flaggen_neu/69.gif,Algeria,https://s.hs-data.com/bilder/wappen/mini/69.gif,2002
+Mali,132,/teams/burkina-faso-team/1/,/teams/burkina-faso-team/2002/3/,https://s.hs-data.com/bilder/flaggen_neu/75.gif,Burkina Faso,https://s.hs-data.com/bilder/wappen/mini/75.gif,2002
+Mali,133,/teams/kamerun-team/1/,/teams/kamerun-team/2002/3/,https://s.hs-data.com/bilder/flaggen_neu/85.gif,Cameroon,https://s.hs-data.com/bilder/wappen/mini/85.gif,2002
+Mali,134,/teams/dr-kongo-team/1/,/teams/dr-kongo-team/2002/3/,https://s.hs-data.com/bilder/flaggen_neu/77.gif,Congo DR,https://s.hs-data.com/bilder/wappen/mini/77.gif,2002
+Mali,135,/teams/aegypten-team/1/,/teams/aegypten-team/2002/3/,https://s.hs-data.com/bilder/flaggen_neu/68.gif,Egypt,https://s.hs-data.com/bilder/wappen/mini/68.gif,2002
+Mali,136,/teams/ghana-team/1/,/teams/ghana-team/2002/3/,https://s.hs-data.com/bilder/flaggen_neu/82.gif,Ghana,https://s.hs-data.com/bilder/wappen/mini/82.gif,2002
+Mali,137,/teams/elfenbeinkueste-team/1/,/teams/elfenbeinkueste-team/2002/3/,https://s.hs-data.com/bilder/flaggen_neu/78.gif,Ivory Coast,https://s.hs-data.com/bilder/wappen/mini/78.gif,2002
+Mali,138,/teams/liberia-team/1/,/teams/liberia-team/2002/3/,https://s.hs-data.com/bilder/flaggen_neu/90.gif,Liberia,https://s.hs-data.com/bilder/wappen/mini/90.gif,2002
+Mali,139,/teams/mali-team/1/,/teams/mali-team/2002/3/,https://s.hs-data.com/bilder/flaggen_neu/94.gif,Mali,https://s.hs-data.com/bilder/wappen/mini/94.gif,2002
+Mali,140,/teams/marokko-team/1/,/teams/marokko-team/2002/3/,https://s.hs-data.com/bilder/flaggen_neu/95.gif,Morocco,https://s.hs-data.com/bilder/wappen/mini/95.gif,2002
+Mali,141,/teams/nigeria-team/1/,/teams/nigeria-team/2002/3/,https://s.hs-data.com/bilder/flaggen_neu/100.gif,Nigeria,https://s.hs-data.com/bilder/wappen/mini/100.gif,2002
+Mali,142,/teams/senegal-team/1/,/teams/senegal-team/2002/3/,https://s.hs-data.com/bilder/flaggen_neu/104.gif,Senegal,https://s.hs-data.com/bilder/wappen/mini/104.gif,2002
+Mali,143,/teams/suedafrika-team/1/,/teams/suedafrika-team/2002/3/,https://s.hs-data.com/bilder/flaggen_neu/109.gif,South Africa,https://s.hs-data.com/bilder/wappen/mini/109.gif,2002
+Mali,144,/teams/togo-team/1/,/teams/togo-team/2002/3/,https://s.hs-data.com/bilder/flaggen_neu/113.gif,Togo,https://s.hs-data.com/bilder/wappen/mini/113.gif,2002
+Mali,145,/teams/tunesien-team/1/,/teams/tunesien-team/2002/3/,https://s.hs-data.com/bilder/flaggen_neu/115.gif,Tunisia,https://s.hs-data.com/bilder/wappen/mini/115.gif,2002
+Mali,146,/teams/sambia-team/1/,/teams/sambia-team/2002/3/,https://s.hs-data.com/bilder/flaggen_neu/102.gif,Zambia,https://s.hs-data.com/bilder/wappen/mini/102.gif,2002
+Ghana/Nigeria,147,/teams/algerien-team/1/,/teams/algerien-team/2000/3/,https://s.hs-data.com/bilder/flaggen_neu/69.gif,Algeria,https://s.hs-data.com/bilder/wappen/mini/69.gif,2000
+Ghana/Nigeria,148,/teams/burkina-faso-team/1/,/teams/burkina-faso-team/2000/3/,https://s.hs-data.com/bilder/flaggen_neu/75.gif,Burkina Faso,https://s.hs-data.com/bilder/wappen/mini/75.gif,2000
+Ghana/Nigeria,149,/teams/kamerun-team/1/,/teams/kamerun-team/2000/3/,https://s.hs-data.com/bilder/flaggen_neu/85.gif,Cameroon,https://s.hs-data.com/bilder/wappen/mini/85.gif,2000
+Ghana/Nigeria,150,/teams/kongo-team/1/,/teams/kongo-team/2000/3/,https://s.hs-data.com/bilder/flaggen_neu/88.gif,Congo,https://s.hs-data.com/bilder/wappen/mini/88.gif,2000
+Ghana/Nigeria,151,/teams/dr-kongo-team/1/,/teams/dr-kongo-team/2000/3/,https://s.hs-data.com/bilder/flaggen_neu/77.gif,Congo DR,https://s.hs-data.com/bilder/wappen/mini/77.gif,2000
+Ghana/Nigeria,152,/teams/aegypten-team/1/,/teams/aegypten-team/2000/3/,https://s.hs-data.com/bilder/flaggen_neu/68.gif,Egypt,https://s.hs-data.com/bilder/wappen/mini/68.gif,2000
+Ghana/Nigeria,153,/teams/gabun-team/1/,/teams/gabun-team/2000/3/,https://s.hs-data.com/bilder/flaggen_neu/80.gif,Gabon,https://s.hs-data.com/bilder/wappen/mini/80.gif,2000
+Ghana/Nigeria,154,/teams/ghana-team/1/,/teams/ghana-team/2000/3/,https://s.hs-data.com/bilder/flaggen_neu/82.gif,Ghana,https://s.hs-data.com/bilder/wappen/mini/82.gif,2000
+Ghana/Nigeria,155,/teams/elfenbeinkueste-team/1/,/teams/elfenbeinkueste-team/2000/3/,https://s.hs-data.com/bilder/flaggen_neu/78.gif,Ivory Coast,https://s.hs-data.com/bilder/wappen/mini/78.gif,2000
+Ghana/Nigeria,156,/teams/marokko-team/1/,/teams/marokko-team/2000/3/,https://s.hs-data.com/bilder/flaggen_neu/95.gif,Morocco,https://s.hs-data.com/bilder/wappen/mini/95.gif,2000
+Ghana/Nigeria,157,/teams/nigeria-team/1/,/teams/nigeria-team/2000/3/,https://s.hs-data.com/bilder/flaggen_neu/100.gif,Nigeria,https://s.hs-data.com/bilder/wappen/mini/100.gif,2000
+Ghana/Nigeria,158,/teams/senegal-team/1/,/teams/senegal-team/2000/3/,https://s.hs-data.com/bilder/flaggen_neu/104.gif,Senegal,https://s.hs-data.com/bilder/wappen/mini/104.gif,2000
+Ghana/Nigeria,159,/teams/suedafrika-team/1/,/teams/suedafrika-team/2000/3/,https://s.hs-data.com/bilder/flaggen_neu/109.gif,South Africa,https://s.hs-data.com/bilder/wappen/mini/109.gif,2000
+Ghana/Nigeria,160,/teams/togo-team/1/,/teams/togo-team/2000/3/,https://s.hs-data.com/bilder/flaggen_neu/113.gif,Togo,https://s.hs-data.com/bilder/wappen/mini/113.gif,2000
+Ghana/Nigeria,161,/teams/tunesien-team/1/,/teams/tunesien-team/2000/3/,https://s.hs-data.com/bilder/flaggen_neu/115.gif,Tunisia,https://s.hs-data.com/bilder/wappen/mini/115.gif,2000
+Ghana/Nigeria,162,/teams/sambia-team/1/,/teams/sambia-team/2000/3/,https://s.hs-data.com/bilder/flaggen_neu/102.gif,Zambia,https://s.hs-data.com/bilder/wappen/mini/102.gif,2000
+Burkina Faso,163,/teams/algerien-team/1/,/teams/algerien-team/1998/3/,https://s.hs-data.com/bilder/flaggen_neu/69.gif,Algeria,https://s.hs-data.com/bilder/wappen/mini/69.gif,1998
+Burkina Faso,164,/teams/angola-team/1/,/teams/angola-team/1998/3/,https://s.hs-data.com/bilder/flaggen_neu/70.gif,Angola,https://s.hs-data.com/bilder/wappen/mini/70.gif,1998
+Burkina Faso,165,/teams/burkina-faso-team/1/,/teams/burkina-faso-team/1998/3/,https://s.hs-data.com/bilder/flaggen_neu/75.gif,Burkina Faso,https://s.hs-data.com/bilder/wappen/mini/75.gif,1998
+Burkina Faso,166,/teams/kamerun-team/1/,/teams/kamerun-team/1998/3/,https://s.hs-data.com/bilder/flaggen_neu/85.gif,Cameroon,https://s.hs-data.com/bilder/wappen/mini/85.gif,1998
+Burkina Faso,167,/teams/dr-kongo-team/1/,/teams/dr-kongo-team/1998/3/,https://s.hs-data.com/bilder/flaggen_neu/77.gif,Congo DR,https://s.hs-data.com/bilder/wappen/mini/77.gif,1998
+Burkina Faso,168,/teams/aegypten-team/1/,/teams/aegypten-team/1998/3/,https://s.hs-data.com/bilder/flaggen_neu/68.gif,Egypt,https://s.hs-data.com/bilder/wappen/mini/68.gif,1998
+Burkina Faso,169,/teams/ghana-team/1/,/teams/ghana-team/1998/3/,https://s.hs-data.com/bilder/flaggen_neu/82.gif,Ghana,https://s.hs-data.com/bilder/wappen/mini/82.gif,1998
+Burkina Faso,170,/teams/guinea-team/1/,/teams/guinea-team/1998/3/,https://s.hs-data.com/bilder/flaggen_neu/83.gif,Guinea,https://s.hs-data.com/bilder/wappen/mini/83.gif,1998
+Burkina Faso,171,/teams/elfenbeinkueste-team/1/,/teams/elfenbeinkueste-team/1998/3/,https://s.hs-data.com/bilder/flaggen_neu/78.gif,Ivory Coast,https://s.hs-data.com/bilder/wappen/mini/78.gif,1998
+Burkina Faso,172,/teams/marokko-team/1/,/teams/marokko-team/1998/3/,https://s.hs-data.com/bilder/flaggen_neu/95.gif,Morocco,https://s.hs-data.com/bilder/wappen/mini/95.gif,1998
+Burkina Faso,173,/teams/mosambik-team/1/,/teams/mosambik-team/1998/3/,https://s.hs-data.com/bilder/flaggen_neu/98.gif,Mozambique,https://s.hs-data.com/bilder/wappen/mini/98.gif,1998
+Burkina Faso,174,/teams/namibia-team/1/,/teams/namibia-team/1998/3/,https://s.hs-data.com/bilder/flaggen_neu/99.gif,Namibia,https://s.hs-data.com/bilder/wappen/mini/99.gif,1998
+Burkina Faso,175,/teams/suedafrika-team/1/,/teams/suedafrika-team/1998/3/,https://s.hs-data.com/bilder/flaggen_neu/109.gif,South Africa,https://s.hs-data.com/bilder/wappen/mini/109.gif,1998
+Burkina Faso,176,/teams/togo-team/1/,/teams/togo-team/1998/3/,https://s.hs-data.com/bilder/flaggen_neu/113.gif,Togo,https://s.hs-data.com/bilder/wappen/mini/113.gif,1998
+Burkina Faso,177,/teams/tunesien-team/1/,/teams/tunesien-team/1998/3/,https://s.hs-data.com/bilder/flaggen_neu/115.gif,Tunisia,https://s.hs-data.com/bilder/wappen/mini/115.gif,1998
+Burkina Faso,178,/teams/sambia-team/1/,/teams/sambia-team/1998/3/,https://s.hs-data.com/bilder/flaggen_neu/102.gif,Zambia,https://s.hs-data.com/bilder/wappen/mini/102.gif,1998
+South Africa,179,/teams/algerien-team/1/,/teams/algerien-team/1996/3/,https://s.hs-data.com/bilder/flaggen_neu/69.gif,Algeria,https://s.hs-data.com/bilder/wappen/mini/69.gif,1996
+South Africa,180,/teams/angola-team/1/,/teams/angola-team/1996/3/,https://s.hs-data.com/bilder/flaggen_neu/70.gif,Angola,https://s.hs-data.com/bilder/wappen/mini/70.gif,1996
+South Africa,181,/teams/burkina-faso-team/1/,/teams/burkina-faso-team/1996/3/,https://s.hs-data.com/bilder/flaggen_neu/75.gif,Burkina Faso,https://s.hs-data.com/bilder/wappen/mini/75.gif,1996
+South Africa,182,/teams/kamerun-team/1/,/teams/kamerun-team/1996/3/,https://s.hs-data.com/bilder/flaggen_neu/85.gif,Cameroon,https://s.hs-data.com/bilder/wappen/mini/85.gif,1996
+South Africa,183,/teams/dr-kongo-team/1/,/teams/dr-kongo-team/1996/3/,https://s.hs-data.com/bilder/flaggen_neu/77.gif,Congo DR,https://s.hs-data.com/bilder/wappen/mini/77.gif,1996
+South Africa,184,/teams/aegypten-team/1/,/teams/aegypten-team/1996/3/,https://s.hs-data.com/bilder/flaggen_neu/68.gif,Egypt,https://s.hs-data.com/bilder/wappen/mini/68.gif,1996
+South Africa,185,/teams/gabun-team/1/,/teams/gabun-team/1996/3/,https://s.hs-data.com/bilder/flaggen_neu/80.gif,Gabon,https://s.hs-data.com/bilder/wappen/mini/80.gif,1996
+South Africa,186,/teams/ghana-team/1/,/teams/ghana-team/1996/3/,https://s.hs-data.com/bilder/flaggen_neu/82.gif,Ghana,https://s.hs-data.com/bilder/wappen/mini/82.gif,1996
+South Africa,187,/teams/elfenbeinkueste-team/1/,/teams/elfenbeinkueste-team/1996/3/,https://s.hs-data.com/bilder/flaggen_neu/78.gif,Ivory Coast,https://s.hs-data.com/bilder/wappen/mini/78.gif,1996
+South Africa,188,/teams/liberia-team/1/,/teams/liberia-team/1996/3/,https://s.hs-data.com/bilder/flaggen_neu/90.gif,Liberia,https://s.hs-data.com/bilder/wappen/mini/90.gif,1996
+South Africa,189,/teams/mosambik-team/1/,/teams/mosambik-team/1996/3/,https://s.hs-data.com/bilder/flaggen_neu/98.gif,Mozambique,https://s.hs-data.com/bilder/wappen/mini/98.gif,1996
+South Africa,190,/teams/sierra-leone-team/1/,/teams/sierra-leone-team/1996/3/,https://s.hs-data.com/bilder/flaggen_neu/106.gif,Sierra Leone,https://s.hs-data.com/bilder/wappen/mini/106.gif,1996
+South Africa,191,/teams/suedafrika-team/1/,/teams/suedafrika-team/1996/3/,https://s.hs-data.com/bilder/flaggen_neu/109.gif,South Africa,https://s.hs-data.com/bilder/wappen/mini/109.gif,1996
+South Africa,192,/teams/tunesien-team/1/,/teams/tunesien-team/1996/3/,https://s.hs-data.com/bilder/flaggen_neu/115.gif,Tunisia,https://s.hs-data.com/bilder/wappen/mini/115.gif,1996
+South Africa,193,/teams/sambia-team/1/,/teams/sambia-team/1996/3/,https://s.hs-data.com/bilder/flaggen_neu/102.gif,Zambia,https://s.hs-data.com/bilder/wappen/mini/102.gif,1996
+Tunisia,194,/teams/dr-kongo-team/1/,/teams/dr-kongo-team/1994/3/,https://s.hs-data.com/bilder/flaggen_neu/77.gif,Congo DR,https://s.hs-data.com/bilder/wappen/mini/77.gif,1994
+Tunisia,195,/teams/aegypten-team/1/,/teams/aegypten-team/1994/3/,https://s.hs-data.com/bilder/flaggen_neu/68.gif,Egypt,https://s.hs-data.com/bilder/wappen/mini/68.gif,1994
+Tunisia,196,/teams/gabun-team/1/,/teams/gabun-team/1994/3/,https://s.hs-data.com/bilder/flaggen_neu/80.gif,Gabon,https://s.hs-data.com/bilder/wappen/mini/80.gif,1994
+Tunisia,197,/teams/ghana-team/1/,/teams/ghana-team/1994/3/,https://s.hs-data.com/bilder/flaggen_neu/82.gif,Ghana,https://s.hs-data.com/bilder/wappen/mini/82.gif,1994
+Tunisia,198,/teams/guinea-team/1/,/teams/guinea-team/1994/3/,https://s.hs-data.com/bilder/flaggen_neu/83.gif,Guinea,https://s.hs-data.com/bilder/wappen/mini/83.gif,1994
+Tunisia,199,/teams/elfenbeinkueste-team/1/,/teams/elfenbeinkueste-team/1994/3/,https://s.hs-data.com/bilder/flaggen_neu/78.gif,Ivory Coast,https://s.hs-data.com/bilder/wappen/mini/78.gif,1994
+Tunisia,200,/teams/mali-team/1/,/teams/mali-team/1994/3/,https://s.hs-data.com/bilder/flaggen_neu/94.gif,Mali,https://s.hs-data.com/bilder/wappen/mini/94.gif,1994
+Tunisia,201,/teams/nigeria-team/1/,/teams/nigeria-team/1994/3/,https://s.hs-data.com/bilder/flaggen_neu/100.gif,Nigeria,https://s.hs-data.com/bilder/wappen/mini/100.gif,1994
+Tunisia,202,/teams/senegal-team/1/,/teams/senegal-team/1994/3/,https://s.hs-data.com/bilder/flaggen_neu/104.gif,Senegal,https://s.hs-data.com/bilder/wappen/mini/104.gif,1994
+Tunisia,203,/teams/sierra-leone-team/1/,/teams/sierra-leone-team/1994/3/,https://s.hs-data.com/bilder/flaggen_neu/106.gif,Sierra Leone,https://s.hs-data.com/bilder/wappen/mini/106.gif,1994
+Tunisia,204,/teams/tunesien-team/1/,/teams/tunesien-team/1994/3/,https://s.hs-data.com/bilder/flaggen_neu/115.gif,Tunisia,https://s.hs-data.com/bilder/wappen/mini/115.gif,1994
+Tunisia,205,/teams/sambia-team/1/,/teams/sambia-team/1994/3/,https://s.hs-data.com/bilder/flaggen_neu/102.gif,Zambia,https://s.hs-data.com/bilder/wappen/mini/102.gif,1994
+Senegal,206,/teams/algerien-team/1/,/teams/algerien-team/1992/3/,https://s.hs-data.com/bilder/flaggen_neu/69.gif,Algeria,https://s.hs-data.com/bilder/wappen/mini/69.gif,1992
+Senegal,207,/teams/kamerun-team/1/,/teams/kamerun-team/1992/3/,https://s.hs-data.com/bilder/flaggen_neu/85.gif,Cameroon,https://s.hs-data.com/bilder/wappen/mini/85.gif,1992
+Senegal,208,/teams/kongo-team/1/,/teams/kongo-team/1992/3/,https://s.hs-data.com/bilder/flaggen_neu/88.gif,Congo,https://s.hs-data.com/bilder/wappen/mini/88.gif,1992
+Senegal,209,/teams/dr-kongo-team/1/,/teams/dr-kongo-team/1992/3/,https://s.hs-data.com/bilder/flaggen_neu/77.gif,Congo DR,https://s.hs-data.com/bilder/wappen/mini/77.gif,1992
+Senegal,210,/teams/aegypten-team/1/,/teams/aegypten-team/1992/3/,https://s.hs-data.com/bilder/flaggen_neu/68.gif,Egypt,https://s.hs-data.com/bilder/wappen/mini/68.gif,1992
+Senegal,211,/teams/ghana-team/1/,/teams/ghana-team/1992/3/,https://s.hs-data.com/bilder/flaggen_neu/82.gif,Ghana,https://s.hs-data.com/bilder/wappen/mini/82.gif,1992
+Senegal,212,/teams/elfenbeinkueste-team/1/,/teams/elfenbeinkueste-team/1992/3/,https://s.hs-data.com/bilder/flaggen_neu/78.gif,Ivory Coast,https://s.hs-data.com/bilder/wappen/mini/78.gif,1992
+Senegal,213,/teams/kenia-team/1/,/teams/kenia-team/1992/3/,https://s.hs-data.com/bilder/flaggen_neu/87.gif,Kenya,https://s.hs-data.com/bilder/wappen/mini/87.gif,1992
+Senegal,214,/teams/marokko-team/1/,/teams/marokko-team/1992/3/,https://s.hs-data.com/bilder/flaggen_neu/95.gif,Morocco,https://s.hs-data.com/bilder/wappen/mini/95.gif,1992
+Senegal,215,/teams/nigeria-team/1/,/teams/nigeria-team/1992/3/,https://s.hs-data.com/bilder/flaggen_neu/100.gif,Nigeria,https://s.hs-data.com/bilder/wappen/mini/100.gif,1992
+Senegal,216,/teams/senegal-team/1/,/teams/senegal-team/1992/3/,https://s.hs-data.com/bilder/flaggen_neu/104.gif,Senegal,https://s.hs-data.com/bilder/wappen/mini/104.gif,1992
+Senegal,217,/teams/sambia-team/1/,/teams/sambia-team/1992/3/,https://s.hs-data.com/bilder/flaggen_neu/102.gif,Zambia,https://s.hs-data.com/bilder/wappen/mini/102.gif,1992
+Algeria,218,/teams/algerien-team/1/,/teams/algerien-team/1990/3/,https://s.hs-data.com/bilder/flaggen_neu/69.gif,Algeria,https://s.hs-data.com/bilder/wappen/mini/69.gif,1990
+Algeria,219,/teams/kamerun-team/1/,/teams/kamerun-team/1990/3/,https://s.hs-data.com/bilder/flaggen_neu/85.gif,Cameroon,https://s.hs-data.com/bilder/wappen/mini/85.gif,1990
+Algeria,220,/teams/aegypten-team/1/,/teams/aegypten-team/1990/3/,https://s.hs-data.com/bilder/flaggen_neu/68.gif,Egypt,https://s.hs-data.com/bilder/wappen/mini/68.gif,1990
+Algeria,221,/teams/elfenbeinkueste-team/1/,/teams/elfenbeinkueste-team/1990/3/,https://s.hs-data.com/bilder/flaggen_neu/78.gif,Ivory Coast,https://s.hs-data.com/bilder/wappen/mini/78.gif,1990
+Algeria,222,/teams/kenia-team/1/,/teams/kenia-team/1990/3/,https://s.hs-data.com/bilder/flaggen_neu/87.gif,Kenya,https://s.hs-data.com/bilder/wappen/mini/87.gif,1990
+Algeria,223,/teams/nigeria-team/1/,/teams/nigeria-team/1990/3/,https://s.hs-data.com/bilder/flaggen_neu/100.gif,Nigeria,https://s.hs-data.com/bilder/wappen/mini/100.gif,1990
+Algeria,224,/teams/senegal-team/1/,/teams/senegal-team/1990/3/,https://s.hs-data.com/bilder/flaggen_neu/104.gif,Senegal,https://s.hs-data.com/bilder/wappen/mini/104.gif,1990
+Algeria,225,/teams/sambia-team/1/,/teams/sambia-team/1990/3/,https://s.hs-data.com/bilder/flaggen_neu/102.gif,Zambia,https://s.hs-data.com/bilder/wappen/mini/102.gif,1990
+Morocco,226,/teams/algerien-team/1/,/teams/algerien-team/1988/3/,https://s.hs-data.com/bilder/flaggen_neu/69.gif,Algeria,https://s.hs-data.com/bilder/wappen/mini/69.gif,1988
+Morocco,227,/teams/kamerun-team/1/,/teams/kamerun-team/1988/3/,https://s.hs-data.com/bilder/flaggen_neu/85.gif,Cameroon,https://s.hs-data.com/bilder/wappen/mini/85.gif,1988
+Morocco,228,/teams/dr-kongo-team/1/,/teams/dr-kongo-team/1988/3/,https://s.hs-data.com/bilder/flaggen_neu/77.gif,Congo DR,https://s.hs-data.com/bilder/wappen/mini/77.gif,1988
+Morocco,229,/teams/aegypten-team/1/,/teams/aegypten-team/1988/3/,https://s.hs-data.com/bilder/flaggen_neu/68.gif,Egypt,https://s.hs-data.com/bilder/wappen/mini/68.gif,1988
+Morocco,230,/teams/elfenbeinkueste-team/1/,/teams/elfenbeinkueste-team/1988/3/,https://s.hs-data.com/bilder/flaggen_neu/78.gif,Ivory Coast,https://s.hs-data.com/bilder/wappen/mini/78.gif,1988
+Morocco,231,/teams/kenia-team/1/,/teams/kenia-team/1988/3/,https://s.hs-data.com/bilder/flaggen_neu/87.gif,Kenya,https://s.hs-data.com/bilder/wappen/mini/87.gif,1988
+Morocco,232,/teams/marokko-team/1/,/teams/marokko-team/1988/3/,https://s.hs-data.com/bilder/flaggen_neu/95.gif,Morocco,https://s.hs-data.com/bilder/wappen/mini/95.gif,1988
+Morocco,233,/teams/nigeria-team/1/,/teams/nigeria-team/1988/3/,https://s.hs-data.com/bilder/flaggen_neu/100.gif,Nigeria,https://s.hs-data.com/bilder/wappen/mini/100.gif,1988
+Egypt,234,/teams/algerien-team/1/,/teams/algerien-team/1986/3/,https://s.hs-data.com/bilder/flaggen_neu/69.gif,Algeria,https://s.hs-data.com/bilder/wappen/mini/69.gif,1986
+Egypt,235,/teams/kamerun-team/1/,/teams/kamerun-team/1986/3/,https://s.hs-data.com/bilder/flaggen_neu/85.gif,Cameroon,https://s.hs-data.com/bilder/wappen/mini/85.gif,1986
+Egypt,236,/teams/aegypten-team/1/,/teams/aegypten-team/1986/3/,https://s.hs-data.com/bilder/flaggen_neu/68.gif,Egypt,https://s.hs-data.com/bilder/wappen/mini/68.gif,1986
+Egypt,237,/teams/elfenbeinkueste-team/1/,/teams/elfenbeinkueste-team/1986/3/,https://s.hs-data.com/bilder/flaggen_neu/78.gif,Ivory Coast,https://s.hs-data.com/bilder/wappen/mini/78.gif,1986
+Egypt,238,/teams/marokko-team/1/,/teams/marokko-team/1986/3/,https://s.hs-data.com/bilder/flaggen_neu/95.gif,Morocco,https://s.hs-data.com/bilder/wappen/mini/95.gif,1986
+Egypt,239,/teams/mosambik-team/1/,/teams/mosambik-team/1986/3/,https://s.hs-data.com/bilder/flaggen_neu/98.gif,Mozambique,https://s.hs-data.com/bilder/wappen/mini/98.gif,1986
+Egypt,240,/teams/senegal-team/1/,/teams/senegal-team/1986/3/,https://s.hs-data.com/bilder/flaggen_neu/104.gif,Senegal,https://s.hs-data.com/bilder/wappen/mini/104.gif,1986
+Egypt,241,/teams/sambia-team/1/,/teams/sambia-team/1986/3/,https://s.hs-data.com/bilder/flaggen_neu/102.gif,Zambia,https://s.hs-data.com/bilder/wappen/mini/102.gif,1986
+Ivory Coast,242,/teams/algerien-team/1/,/teams/algerien-team/1984/3/,https://s.hs-data.com/bilder/flaggen_neu/69.gif,Algeria,https://s.hs-data.com/bilder/wappen/mini/69.gif,1984
+Ivory Coast,243,/teams/kamerun-team/1/,/teams/kamerun-team/1984/3/,https://s.hs-data.com/bilder/flaggen_neu/85.gif,Cameroon,https://s.hs-data.com/bilder/wappen/mini/85.gif,1984
+Ivory Coast,244,/teams/aegypten-team/1/,/teams/aegypten-team/1984/3/,https://s.hs-data.com/bilder/flaggen_neu/68.gif,Egypt,https://s.hs-data.com/bilder/wappen/mini/68.gif,1984
+Ivory Coast,245,/teams/ghana-team/1/,/teams/ghana-team/1984/3/,https://s.hs-data.com/bilder/flaggen_neu/82.gif,Ghana,https://s.hs-data.com/bilder/wappen/mini/82.gif,1984
+Ivory Coast,246,/teams/elfenbeinkueste-team/1/,/teams/elfenbeinkueste-team/1984/3/,https://s.hs-data.com/bilder/flaggen_neu/78.gif,Ivory Coast,https://s.hs-data.com/bilder/wappen/mini/78.gif,1984
+Ivory Coast,247,/teams/malawi-team/1/,/teams/malawi-team/1984/3/,https://s.hs-data.com/bilder/flaggen_neu/93.gif,Malawi,https://s.hs-data.com/bilder/wappen/mini/93.gif,1984
+Ivory Coast,248,/teams/nigeria-team/1/,/teams/nigeria-team/1984/3/,https://s.hs-data.com/bilder/flaggen_neu/100.gif,Nigeria,https://s.hs-data.com/bilder/wappen/mini/100.gif,1984
+Ivory Coast,249,/teams/togo-team/1/,/teams/togo-team/1984/3/,https://s.hs-data.com/bilder/flaggen_neu/113.gif,Togo,https://s.hs-data.com/bilder/wappen/mini/113.gif,1984
+Libya,250,/teams/algerien-team/1/,/teams/algerien-team/1982/3/,https://s.hs-data.com/bilder/flaggen_neu/69.gif,Algeria,https://s.hs-data.com/bilder/wappen/mini/69.gif,1982
+Libya,251,/teams/kamerun-team/1/,/teams/kamerun-team/1982/3/,https://s.hs-data.com/bilder/flaggen_neu/85.gif,Cameroon,https://s.hs-data.com/bilder/wappen/mini/85.gif,1982
+Libya,252,/teams/aethiopien-team/1/,/teams/aethiopien-team/1982/3/,https://s.hs-data.com/bilder/flaggen_neu/72.gif,Ethiopia,https://s.hs-data.com/bilder/wappen/mini/72.gif,1982
+Libya,253,/teams/ghana-team/1/,/teams/ghana-team/1982/3/,https://s.hs-data.com/bilder/flaggen_neu/82.gif,Ghana,https://s.hs-data.com/bilder/wappen/mini/82.gif,1982
+Libya,254,/teams/libyen-team/1/,/teams/libyen-team/1982/3/,https://s.hs-data.com/bilder/flaggen_neu/91.gif,Libya,https://s.hs-data.com/bilder/wappen/mini/91.gif,1982
+Libya,255,/teams/nigeria-team/1/,/teams/nigeria-team/1982/3/,https://s.hs-data.com/bilder/flaggen_neu/100.gif,Nigeria,https://s.hs-data.com/bilder/wappen/mini/100.gif,1982
+Libya,256,/teams/tunesien-team/1/,/teams/tunesien-team/1982/3/,https://s.hs-data.com/bilder/flaggen_neu/115.gif,Tunisia,https://s.hs-data.com/bilder/wappen/mini/115.gif,1982
+Libya,257,/teams/sambia-team/1/,/teams/sambia-team/1982/3/,https://s.hs-data.com/bilder/flaggen_neu/102.gif,Zambia,https://s.hs-data.com/bilder/wappen/mini/102.gif,1982
+Nigeria,258,/teams/algerien-team/1/,/teams/algerien-team/1980/3/,https://s.hs-data.com/bilder/flaggen_neu/69.gif,Algeria,https://s.hs-data.com/bilder/wappen/mini/69.gif,1980
+Nigeria,259,/teams/aegypten-team/1/,/teams/aegypten-team/1980/3/,https://s.hs-data.com/bilder/flaggen_neu/68.gif,Egypt,https://s.hs-data.com/bilder/wappen/mini/68.gif,1980
+Nigeria,260,/teams/ghana-team/1/,/teams/ghana-team/1980/3/,https://s.hs-data.com/bilder/flaggen_neu/82.gif,Ghana,https://s.hs-data.com/bilder/wappen/mini/82.gif,1980
+Nigeria,261,/teams/guinea-team/1/,/teams/guinea-team/1980/3/,https://s.hs-data.com/bilder/flaggen_neu/83.gif,Guinea,https://s.hs-data.com/bilder/wappen/mini/83.gif,1980
+Nigeria,262,/teams/elfenbeinkueste-team/1/,/teams/elfenbeinkueste-team/1980/3/,https://s.hs-data.com/bilder/flaggen_neu/78.gif,Ivory Coast,https://s.hs-data.com/bilder/wappen/mini/78.gif,1980
+Nigeria,263,/teams/marokko-team/1/,/teams/marokko-team/1980/3/,https://s.hs-data.com/bilder/flaggen_neu/95.gif,Morocco,https://s.hs-data.com/bilder/wappen/mini/95.gif,1980
+Nigeria,264,/teams/nigeria-team/1/,/teams/nigeria-team/1980/3/,https://s.hs-data.com/bilder/flaggen_neu/100.gif,Nigeria,https://s.hs-data.com/bilder/wappen/mini/100.gif,1980
+Nigeria,265,/teams/tansania-team/1/,/teams/tansania-team/1980/3/,https://s.hs-data.com/bilder/flaggen_neu/112.gif,Tanzania,https://s.hs-data.com/bilder/wappen/mini/112.gif,1980
+Ghana,266,/teams/burkina-faso-team/1/,/teams/burkina-faso-team/1978/3/,https://s.hs-data.com/bilder/flaggen_neu/75.gif,Burkina Faso,https://s.hs-data.com/bilder/wappen/mini/75.gif,1978
+Ghana,267,/teams/kongo-team/1/,/teams/kongo-team/1978/3/,https://s.hs-data.com/bilder/flaggen_neu/88.gif,Congo,https://s.hs-data.com/bilder/wappen/mini/88.gif,1978
+Ghana,268,/teams/ghana-team/1/,/teams/ghana-team/1978/3/,https://s.hs-data.com/bilder/flaggen_neu/82.gif,Ghana,https://s.hs-data.com/bilder/wappen/mini/82.gif,1978
+Ghana,269,/teams/marokko-team/1/,/teams/marokko-team/1978/3/,https://s.hs-data.com/bilder/flaggen_neu/95.gif,Morocco,https://s.hs-data.com/bilder/wappen/mini/95.gif,1978
+Ghana,270,/teams/nigeria-team/1/,/teams/nigeria-team/1978/3/,https://s.hs-data.com/bilder/flaggen_neu/100.gif,Nigeria,https://s.hs-data.com/bilder/wappen/mini/100.gif,1978
+Ghana,271,/teams/tunesien-team/1/,/teams/tunesien-team/1978/3/,https://s.hs-data.com/bilder/flaggen_neu/115.gif,Tunisia,https://s.hs-data.com/bilder/wappen/mini/115.gif,1978
+Ghana,272,/teams/uganda-team/1/,/teams/uganda-team/1978/3/,https://s.hs-data.com/bilder/flaggen_neu/116.gif,Uganda,https://s.hs-data.com/bilder/wappen/mini/116.gif,1978
+Ghana,273,/teams/sambia-team/1/,/teams/sambia-team/1978/3/,https://s.hs-data.com/bilder/flaggen_neu/102.gif,Zambia,https://s.hs-data.com/bilder/wappen/mini/102.gif,1978
+Ethiopia,274,/teams/dr-kongo-team/1/,/teams/dr-kongo-team/1976/3/,https://s.hs-data.com/bilder/flaggen_neu/77.gif,Congo DR,https://s.hs-data.com/bilder/wappen/mini/77.gif,1976
+Ethiopia,275,/teams/aegypten-team/1/,/teams/aegypten-team/1976/3/,https://s.hs-data.com/bilder/flaggen_neu/68.gif,Egypt,https://s.hs-data.com/bilder/wappen/mini/68.gif,1976
+Ethiopia,276,/teams/aethiopien-team/1/,/teams/aethiopien-team/1976/3/,https://s.hs-data.com/bilder/flaggen_neu/72.gif,Ethiopia,https://s.hs-data.com/bilder/wappen/mini/72.gif,1976
+Ethiopia,277,/teams/guinea-team/1/,/teams/guinea-team/1976/3/,https://s.hs-data.com/bilder/flaggen_neu/83.gif,Guinea,https://s.hs-data.com/bilder/wappen/mini/83.gif,1976
+Ethiopia,278,/teams/marokko-team/1/,/teams/marokko-team/1976/3/,https://s.hs-data.com/bilder/flaggen_neu/95.gif,Morocco,https://s.hs-data.com/bilder/wappen/mini/95.gif,1976
+Ethiopia,279,/teams/nigeria-team/1/,/teams/nigeria-team/1976/3/,https://s.hs-data.com/bilder/flaggen_neu/100.gif,Nigeria,https://s.hs-data.com/bilder/wappen/mini/100.gif,1976
+Ethiopia,280,/teams/sudan-team/1/,/teams/sudan-team/1976/3/,https://s.hs-data.com/bilder/flaggen_neu/110.gif,Sudan,https://s.hs-data.com/bilder/wappen/mini/110.gif,1976
+Ethiopia,281,/teams/uganda-team/1/,/teams/uganda-team/1976/3/,https://s.hs-data.com/bilder/flaggen_neu/116.gif,Uganda,https://s.hs-data.com/bilder/wappen/mini/116.gif,1976
+Egypt,282,/teams/kongo-team/1/,/teams/kongo-team/1974/3/,https://s.hs-data.com/bilder/flaggen_neu/88.gif,Congo,https://s.hs-data.com/bilder/wappen/mini/88.gif,1974
+Egypt,283,/teams/dr-kongo-team/1/,/teams/dr-kongo-team/1974/3/,https://s.hs-data.com/bilder/flaggen_neu/77.gif,Congo DR,https://s.hs-data.com/bilder/wappen/mini/77.gif,1974
+Egypt,284,/teams/aegypten-team/1/,/teams/aegypten-team/1974/3/,https://s.hs-data.com/bilder/flaggen_neu/68.gif,Egypt,https://s.hs-data.com/bilder/wappen/mini/68.gif,1974
+Egypt,285,/teams/guinea-team/1/,/teams/guinea-team/1974/3/,https://s.hs-data.com/bilder/flaggen_neu/83.gif,Guinea,https://s.hs-data.com/bilder/wappen/mini/83.gif,1974
+Egypt,286,/teams/elfenbeinkueste-team/1/,/teams/elfenbeinkueste-team/1974/3/,https://s.hs-data.com/bilder/flaggen_neu/78.gif,Ivory Coast,https://s.hs-data.com/bilder/wappen/mini/78.gif,1974
+Egypt,287,/teams/mauritius-team/1/,/teams/mauritius-team/1974/3/,https://s.hs-data.com/bilder/flaggen_neu/97.gif,Mauritius,https://s.hs-data.com/bilder/wappen/mini/97.gif,1974
+Egypt,288,/teams/uganda-team/1/,/teams/uganda-team/1974/3/,https://s.hs-data.com/bilder/flaggen_neu/116.gif,Uganda,https://s.hs-data.com/bilder/wappen/mini/116.gif,1974
+Egypt,289,/teams/sambia-team/1/,/teams/sambia-team/1974/3/,https://s.hs-data.com/bilder/flaggen_neu/102.gif,Zambia,https://s.hs-data.com/bilder/wappen/mini/102.gif,1974
+Cameroon,290,/teams/kamerun-team/1/,/teams/kamerun-team/1972/3/,https://s.hs-data.com/bilder/flaggen_neu/85.gif,Cameroon,https://s.hs-data.com/bilder/wappen/mini/85.gif,1972
+Cameroon,291,/teams/kongo-team/1/,/teams/kongo-team/1972/3/,https://s.hs-data.com/bilder/flaggen_neu/88.gif,Congo,https://s.hs-data.com/bilder/wappen/mini/88.gif,1972
+Cameroon,292,/teams/dr-kongo-team/1/,/teams/dr-kongo-team/1972/3/,https://s.hs-data.com/bilder/flaggen_neu/77.gif,Congo DR,https://s.hs-data.com/bilder/wappen/mini/77.gif,1972
+Cameroon,293,/teams/kenia-team/1/,/teams/kenia-team/1972/3/,https://s.hs-data.com/bilder/flaggen_neu/87.gif,Kenya,https://s.hs-data.com/bilder/wappen/mini/87.gif,1972
+Cameroon,294,/teams/mali-team/1/,/teams/mali-team/1972/3/,https://s.hs-data.com/bilder/flaggen_neu/94.gif,Mali,https://s.hs-data.com/bilder/wappen/mini/94.gif,1972
+Cameroon,295,/teams/marokko-team/1/,/teams/marokko-team/1972/3/,https://s.hs-data.com/bilder/flaggen_neu/95.gif,Morocco,https://s.hs-data.com/bilder/wappen/mini/95.gif,1972
+Cameroon,296,/teams/sudan-team/1/,/teams/sudan-team/1972/3/,https://s.hs-data.com/bilder/flaggen_neu/110.gif,Sudan,https://s.hs-data.com/bilder/wappen/mini/110.gif,1972
+Cameroon,297,/teams/togo-team/1/,/teams/togo-team/1972/3/,https://s.hs-data.com/bilder/flaggen_neu/113.gif,Togo,https://s.hs-data.com/bilder/wappen/mini/113.gif,1972
+Sudan,298,/teams/kamerun-team/1/,/teams/kamerun-team/1970/3/,https://s.hs-data.com/bilder/flaggen_neu/85.gif,Cameroon,https://s.hs-data.com/bilder/wappen/mini/85.gif,1970
+Sudan,299,/teams/kongo-team/1/,/teams/kongo-team/1970/3/,https://s.hs-data.com/bilder/flaggen_neu/88.gif,Congo,https://s.hs-data.com/bilder/wappen/mini/88.gif,1970
+Sudan,300,/teams/aegypten-team/1/,/teams/aegypten-team/1970/3/,https://s.hs-data.com/bilder/flaggen_neu/68.gif,Egypt,https://s.hs-data.com/bilder/wappen/mini/68.gif,1970
+Sudan,301,/teams/aethiopien-team/1/,/teams/aethiopien-team/1970/3/,https://s.hs-data.com/bilder/flaggen_neu/72.gif,Ethiopia,https://s.hs-data.com/bilder/wappen/mini/72.gif,1970
+Sudan,302,/teams/ghana-team/1/,/teams/ghana-team/1970/3/,https://s.hs-data.com/bilder/flaggen_neu/82.gif,Ghana,https://s.hs-data.com/bilder/wappen/mini/82.gif,1970
+Sudan,303,/teams/guinea-team/1/,/teams/guinea-team/1970/3/,https://s.hs-data.com/bilder/flaggen_neu/83.gif,Guinea,https://s.hs-data.com/bilder/wappen/mini/83.gif,1970
+Sudan,304,/teams/elfenbeinkueste-team/1/,/teams/elfenbeinkueste-team/1970/3/,https://s.hs-data.com/bilder/flaggen_neu/78.gif,Ivory Coast,https://s.hs-data.com/bilder/wappen/mini/78.gif,1970
+Sudan,305,/teams/sudan-team/1/,/teams/sudan-team/1970/3/,https://s.hs-data.com/bilder/flaggen_neu/110.gif,Sudan,https://s.hs-data.com/bilder/wappen/mini/110.gif,1970
+Ethiopia,306,/teams/algerien-team/1/,/teams/algerien-team/1968/3/,https://s.hs-data.com/bilder/flaggen_neu/69.gif,Algeria,https://s.hs-data.com/bilder/wappen/mini/69.gif,1968
+Ethiopia,307,/teams/kongo-team/1/,/teams/kongo-team/1968/3/,https://s.hs-data.com/bilder/flaggen_neu/88.gif,Congo,https://s.hs-data.com/bilder/wappen/mini/88.gif,1968
+Ethiopia,308,/teams/dr-kongo-team/1/,/teams/dr-kongo-team/1968/3/,https://s.hs-data.com/bilder/flaggen_neu/77.gif,Congo DR,https://s.hs-data.com/bilder/wappen/mini/77.gif,1968
+Ethiopia,309,/teams/aethiopien-team/1/,/teams/aethiopien-team/1968/3/,https://s.hs-data.com/bilder/flaggen_neu/72.gif,Ethiopia,https://s.hs-data.com/bilder/wappen/mini/72.gif,1968
+Ethiopia,310,/teams/ghana-team/1/,/teams/ghana-team/1968/3/,https://s.hs-data.com/bilder/flaggen_neu/82.gif,Ghana,https://s.hs-data.com/bilder/wappen/mini/82.gif,1968
+Ethiopia,311,/teams/elfenbeinkueste-team/1/,/teams/elfenbeinkueste-team/1968/3/,https://s.hs-data.com/bilder/flaggen_neu/78.gif,Ivory Coast,https://s.hs-data.com/bilder/wappen/mini/78.gif,1968
+Ethiopia,312,/teams/senegal-team/1/,/teams/senegal-team/1968/3/,https://s.hs-data.com/bilder/flaggen_neu/104.gif,Senegal,https://s.hs-data.com/bilder/wappen/mini/104.gif,1968
+Ethiopia,313,/teams/uganda-team/1/,/teams/uganda-team/1968/3/,https://s.hs-data.com/bilder/flaggen_neu/116.gif,Uganda,https://s.hs-data.com/bilder/wappen/mini/116.gif,1968
+Tunisia,314,/teams/dr-kongo-team/1/,/teams/dr-kongo-team/1965/3/,https://s.hs-data.com/bilder/flaggen_neu/77.gif,Congo DR,https://s.hs-data.com/bilder/wappen/mini/77.gif,1965
+Tunisia,315,/teams/aethiopien-team/1/,/teams/aethiopien-team/1965/3/,https://s.hs-data.com/bilder/flaggen_neu/72.gif,Ethiopia,https://s.hs-data.com/bilder/wappen/mini/72.gif,1965
+Tunisia,316,/teams/ghana-team/1/,/teams/ghana-team/1965/3/,https://s.hs-data.com/bilder/flaggen_neu/82.gif,Ghana,https://s.hs-data.com/bilder/wappen/mini/82.gif,1965
+Tunisia,317,/teams/elfenbeinkueste-team/1/,/teams/elfenbeinkueste-team/1965/3/,https://s.hs-data.com/bilder/flaggen_neu/78.gif,Ivory Coast,https://s.hs-data.com/bilder/wappen/mini/78.gif,1965
+Tunisia,318,/teams/senegal-team/1/,/teams/senegal-team/1965/3/,https://s.hs-data.com/bilder/flaggen_neu/104.gif,Senegal,https://s.hs-data.com/bilder/wappen/mini/104.gif,1965
+Tunisia,319,/teams/tunesien-team/1/,/teams/tunesien-team/1965/3/,https://s.hs-data.com/bilder/flaggen_neu/115.gif,Tunisia,https://s.hs-data.com/bilder/wappen/mini/115.gif,1965
+Ghana,320,/teams/aegypten-team/1/,/teams/aegypten-team/1963/3/,https://s.hs-data.com/bilder/flaggen_neu/68.gif,Egypt,https://s.hs-data.com/bilder/wappen/mini/68.gif,1963
+Ghana,321,/teams/aethiopien-team/1/,/teams/aethiopien-team/1963/3/,https://s.hs-data.com/bilder/flaggen_neu/72.gif,Ethiopia,https://s.hs-data.com/bilder/wappen/mini/72.gif,1963
+Ghana,322,/teams/ghana-team/1/,/teams/ghana-team/1963/3/,https://s.hs-data.com/bilder/flaggen_neu/82.gif,Ghana,https://s.hs-data.com/bilder/wappen/mini/82.gif,1963
+Ghana,323,/teams/nigeria-team/1/,/teams/nigeria-team/1963/3/,https://s.hs-data.com/bilder/flaggen_neu/100.gif,Nigeria,https://s.hs-data.com/bilder/wappen/mini/100.gif,1963
+Ghana,324,/teams/sudan-team/1/,/teams/sudan-team/1963/3/,https://s.hs-data.com/bilder/flaggen_neu/110.gif,Sudan,https://s.hs-data.com/bilder/wappen/mini/110.gif,1963
+Ghana,325,/teams/tunesien-team/1/,/teams/tunesien-team/1963/3/,https://s.hs-data.com/bilder/flaggen_neu/115.gif,Tunisia,https://s.hs-data.com/bilder/wappen/mini/115.gif,1963
+Ethiopia,326,/teams/aegypten-team/1/,/teams/aegypten-team/1962/3/,https://s.hs-data.com/bilder/flaggen_neu/68.gif,Egypt,https://s.hs-data.com/bilder/wappen/mini/68.gif,1962
+Ethiopia,327,/teams/aethiopien-team/1/,/teams/aethiopien-team/1962/3/,https://s.hs-data.com/bilder/flaggen_neu/72.gif,Ethiopia,https://s.hs-data.com/bilder/wappen/mini/72.gif,1962
+Ethiopia,328,/teams/tunesien-team/1/,/teams/tunesien-team/1962/3/,https://s.hs-data.com/bilder/flaggen_neu/115.gif,Tunisia,https://s.hs-data.com/bilder/wappen/mini/115.gif,1962
+Ethiopia,329,/teams/uganda-team/1/,/teams/uganda-team/1962/3/,https://s.hs-data.com/bilder/flaggen_neu/116.gif,Uganda,https://s.hs-data.com/bilder/wappen/mini/116.gif,1962
+Egypt,330,/teams/aegypten-team/1/,/teams/aegypten-team/1959/3/,https://s.hs-data.com/bilder/flaggen_neu/68.gif,Egypt,https://s.hs-data.com/bilder/wappen/mini/68.gif,1959
+Egypt,331,/teams/aethiopien-team/1/,/teams/aethiopien-team/1959/3/,https://s.hs-data.com/bilder/flaggen_neu/72.gif,Ethiopia,https://s.hs-data.com/bilder/wappen/mini/72.gif,1959
+Egypt,332,/teams/sudan-team/1/,/teams/sudan-team/1959/3/,https://s.hs-data.com/bilder/flaggen_neu/110.gif,Sudan,https://s.hs-data.com/bilder/wappen/mini/110.gif,1959
+Sudan,333,/teams/aegypten-team/1/,/teams/aegypten-team/1957/3/,https://s.hs-data.com/bilder/flaggen_neu/68.gif,Egypt,https://s.hs-data.com/bilder/wappen/mini/68.gif,1957
+Sudan,334,/teams/aethiopien-team/1/,/teams/aethiopien-team/1957/3/,https://s.hs-data.com/bilder/flaggen_neu/72.gif,Ethiopia,https://s.hs-data.com/bilder/wappen/mini/72.gif,1957
+Sudan,335,/teams/sudan-team/1/,/teams/sudan-team/1957/3/,https://s.hs-data.com/bilder/flaggen_neu/110.gif,Sudan,https://s.hs-data.com/bilder/wappen/mini/110.gif,1957
