@@ -23,7 +23,7 @@ def find_ans(host, team, a, b):
         prefer_canvas=True
     )
 
-    df = pd.read_json('E:/job/ptoj/ASS/3rd/my_work/AFRICA_CUP_OF_NATION/home/cc.json')
+    df = pd.read_json('home/data/cc.json')
 
     def my_color_function(feature):
         if feature['properties']['name'] in np.array(host[team]):
