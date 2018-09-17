@@ -2,3 +2,6 @@ django
 pandas
 numpy
 folium
+psycopg2
+dj-database-url
+gunicorn
