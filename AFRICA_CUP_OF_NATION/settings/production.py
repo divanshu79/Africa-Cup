@@ -25,7 +25,7 @@ SECRET_KEY = 'bfd506am3t9(ousne#0&!z4q%7!9tj(3n_@w&#16caaz%2yy4m'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['project-name.herokuapp.com']
 
 
 # Application definition
@@ -80,6 +80,11 @@ DATABASES = {
         'NAME': 'mydatabase',
     }
 }
+
+import dj_database_url
+db_from_env = dj_database_url.config()
+DATABASES['default'].update(db_from_env)
+# DATABASES['default']['CONN_MAX_AGE'] = 500
 
 
 # Password validation
