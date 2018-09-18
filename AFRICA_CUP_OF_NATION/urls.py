@@ -16,11 +16,18 @@ Including another URLconf
 from django.conf.urls import url
 from django.contrib import admin
 from home import views
+from django.conf import settings
+
 
 urlpatterns = [
     url(r'^admin/', admin.site.urls),
     url(r'^home/', views.home, name='home'),
     url(r'^check/', views.check, name='check'),
-    url(r'^$', views.start_page, name='start_page'),
-    url(r'^soon/', views.soon, name='soon'),
+    url(r'^$', views.home, name='start_page'),
+    url(r'^soon/', views.home, name='soon'),
 ]
+
+if not settings.DEBUG:
+    urlpatterns += ['',
+                    (r'^static/(?P<path>.*)$', 'django.views.static.serve', {'document_root': settings.STATIC_ROOT}),
+                    ]
