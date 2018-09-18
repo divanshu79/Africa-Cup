@@ -20,5 +20,7 @@ from home import views
 urlpatterns = [
     url(r'^admin/', admin.site.urls),
     url(r'^home/', views.home, name='home'),
-    url(r'^check/', views.check, name='check')
+    url(r'^check/', views.check, name='check'),
+    url(r'^$', views.start_page, name='start_page'),
+    url(r'^soon/', views.soon, name='soon'),
 ]

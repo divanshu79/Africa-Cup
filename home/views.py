@@ -120,3 +120,10 @@ def home(request):
 
     return render(request, 'home/home.html', {'year': year, 'year1': year1})
 
+def soon(request):
+    return render(request, 'home/soon.html')
+
+
+def start_page(request):
+    return render(request, 'home/index.html')
+
