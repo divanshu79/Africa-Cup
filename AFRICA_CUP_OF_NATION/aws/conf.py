@@ -3,15 +3,15 @@ AWS_ACCESS_KEY_ID = "AKIASZEXQ3K5I3VVSTG5"
 AWS_SECRET_ACCESS_KEY = "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"
 AWS_FILE_EXPIRE = 200
 AWS_PRELOAD_METADATA = True
-AWS_QUERYSTRING_AUTH = True
+AWS_QUERYSTRING_AUTH = False
 
 DEFAULT_FILE_STORAGE = 'AFRICA_CUP_OF_NATION.aws.utils.MediaRootS3BotoStorage'
 STATICFILES_STORAGE = 'AFRICA_CUP_OF_NATION.aws.utils.StaticRootS3BotoStorage'
 AWS_STORAGE_BUCKET_NAME = "africafootball79"
 S3DIRECT_REGION = "ap-south-1"
-S3_URL = '//%s.s3.amazonaws.com/' % AWS_STORAGE_BUCKET_NAME
-MEDIA_URL = '//%s.s3.amazonaws.com/media/' % AWS_STORAGE_BUCKET_NAME
-MEDIA_ROOT = MEDIA_URL
+# S3_URL = '//%s.s3.amazonaws.com/' % AWS_STORAGE_BUCKET_NAME
+# MEDIA_URL = '//%s.s3.amazonaws.com/media/' % AWS_STORAGE_BUCKET_NAME
+# MEDIA_ROOT = MEDIA_URL
 # STATIC_URL = S3_URL + 'static/'
 ##########################################################################
 # link = 'https://s3.ap-south-1.amazonaws.com/africafootball79/static/home/images/clouds/cloud-01.png'
