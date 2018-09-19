@@ -26,8 +26,3 @@ urlpatterns = [
     url(r'^$', views.start_page, name='start_page'),
     url(r'^soon/', views.soon, name='soon'),
 ]
-
-if not settings.DEBUG:
-    urlpatterns += ['',
-                    (r'^static/(?P<path>.*)$', 'django.views.static.serve', {'document_root': settings.STATIC_ROOT}),
-                    ]

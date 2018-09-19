@@ -8,14 +8,15 @@ AWS_QUERYSTRING_AUTH = True
 DEFAULT_FILE_STORAGE = 'AFRICA_CUP_OF_NATION.aws.utils.MediaRootS3BotoStorage'
 STATICFILES_STORAGE = 'AFRICA_CUP_OF_NATION.aws.utils.StaticRootS3BotoStorage'
 AWS_STORAGE_BUCKET_NAME = "africafootball79"
-S3DIRECT_REGION = "Asia Pacific (Mumbai)"
+S3DIRECT_REGION = "ap-south-1"
 S3_URL = '//%s.s3.amazonaws.com/' % AWS_STORAGE_BUCKET_NAME
 MEDIA_URL = '//%s.s3.amazonaws.com/media/' % AWS_STORAGE_BUCKET_NAME
 MEDIA_ROOT = MEDIA_URL
 # STATIC_URL = S3_URL + 'static/'
 ##########################################################################
+# link = 'https://s3.ap-south-1.amazonaws.com/africafootball79/static/home/images/clouds/cloud-01.png'
 
-STATIC_URL = 'https://' + AWS_STORAGE_BUCKET_NAME + '.s3.amazonaws.com/'
+STATIC_URL = 'https://' + 's3.' + S3DIRECT_REGION + '.amazonaws.com/' + AWS_STORAGE_BUCKET_NAME + '/static/'
 STATIC_ROOT = 'staticfiles'
 
 STATICFILES_FINDERS = (
