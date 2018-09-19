@@ -5,3 +5,4 @@ folium
 psycopg2
 dj-database-url
 gunicorn
+djangorestframework
