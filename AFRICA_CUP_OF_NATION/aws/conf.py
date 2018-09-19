@@ -16,7 +16,7 @@ MEDIA_ROOT = MEDIA_URL
 ##########################################################################
 # link = 'https://s3.ap-south-1.amazonaws.com/africafootball79/static/home/images/clouds/cloud-01.png'
 
-STATIC_URL = 'https://' + 's3.' + S3DIRECT_REGION + '.amazonaws.com/' + AWS_STORAGE_BUCKET_NAME + '/static/'
+STATIC_URL = 'https://' + 's3.' + '.amazonaws.com/' + AWS_STORAGE_BUCKET_NAME + '/static/'
 STATIC_ROOT = 'staticfiles'
 
 STATICFILES_FINDERS = (
