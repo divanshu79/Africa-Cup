@@ -12,7 +12,18 @@ S3DIRECT_REGION = "Asia Pacific (Mumbai)"
 S3_URL = '//%s.s3.amazonaws.com/' % AWS_STORAGE_BUCKET_NAME
 MEDIA_URL = '//%s.s3.amazonaws.com/media/' % AWS_STORAGE_BUCKET_NAME
 MEDIA_ROOT = MEDIA_URL
-STATIC_URL = S3_URL + 'static/'
+# STATIC_URL = S3_URL + 'static/'
+##########################################################################
+
+STATIC_URL = 'https://' + AWS_STORAGE_BUCKET_NAME + '.s3.amazonaws.com/'
+STATIC_ROOT = 'staticfiles'
+
+STATICFILES_FINDERS = (
+    'django.contrib.staticfiles.finders.FileSystemFinder',
+    'django.contrib.staticfiles.finders.AppDirectoriesFinder',
+)
+
+##########################################################################
 ADMIN_MEDIA_PREFIX = STATIC_URL + 'admin/'
 
 two_months = datetime.timedelta(days=61)
