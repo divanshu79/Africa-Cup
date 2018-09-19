@@ -6,3 +6,6 @@ psycopg2
 dj-database-url
 gunicorn
 djangorestframework
+boto
+boto3
+django-storages
