@@ -9,3 +9,7 @@ djangorestframework
 boto
 boto3
 django-storages
+django_compressor
+cryptography
+urllib3
+requests
