@@ -1,5 +1,6 @@
 .idea/
 AFRICA_CUP_OF_NATION/settings/local.py
+AFRICA_CUP_OF_NATION/aws/conf.py
 mydatabase
 
 .DS_Store
